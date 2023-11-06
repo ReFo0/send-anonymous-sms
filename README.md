@@ -1,7 +1,7 @@
+# SMS Application
+
 ![](https://img.shields.io/github/stars/refo0/send-anonymous-sms)
 ![](https://img.shields.io/github/forks/refo0/send-anonymous-sms)
-
-# SMS Application
 
 This is a simple Windows Forms application for sending SMS messages using the textbelt.com API.
 
